@@ -46,6 +46,7 @@ public class kaoshi1 {
 
         kuaisupaixu(arr,left,low-1);
         kuaisupaixu(arr,low+1,right);
+        System.out.println("新改的货");
 
     }
 }
